@@ -6,8 +6,13 @@ Data Model:
 The data mart is structured with the following dimensional model:
 
 Fact Sales: Contains sales-related measures and foreign keys linking to dimensions.
+
 Dim Product: Stores detailed product information, including attributes such as product name, category, and subcategory.
+
 Dim Customer: Includes comprehensive customer details and supports Slowly Changing Dimension (SCD) processing to manage customer changes.
+
 Dim Time: Represents various time-related information, including date, month, quarter, and year.
+
 Dim Territory: Contains territory information with attributes such as region, country, and state.
+
 This project ensures an accurate and reliable data mart, facilitating advanced analytics and informed decision-making.
