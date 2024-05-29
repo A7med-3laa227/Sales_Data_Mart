@@ -16,3 +16,4 @@ Dim Time: Represents various time-related information, including date, month, qu
 Dim Territory: Contains territory information with attributes such as region, country, and state.
 
 This project ensures an accurate and reliable data mart, facilitating advanced analytics and informed decision-making.
+![Screenshot 2024-05-29 203558](https://github.com/A7med-3laa227/Sales_Data_Mart/assets/86737077/d66107df-41e1-488d-b72e-858546930547)
