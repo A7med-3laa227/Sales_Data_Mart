@@ -27,7 +27,7 @@ Extract: Retrieve product data from the source database.
 Transform: Cleanse and standardize product attributes such as name, category, and subcategory.
 
 Load: Populate the Dim Product table with the transformed data.
-![Screenshot 2024-05-29 205301](https://github.com/A7med-3laa227/Sales_Data_Mart/assets/86737077/3a33c043-a855-4447-8536-29750f441a6f)
+![Screenshot 2024-05-29 210026](https://github.com/A7med-3laa227/Sales_Data_Mart/assets/86737077/aceee82c-41f5-48d8-af3d-382464703420)
 
 Dim Customer Design:
 
@@ -36,11 +36,12 @@ Extract: Retrieve customer data from the source database.
 Transform: Apply Slowly Changing Dimension (SCD) processing to manage customer changes, and cleanse customer attributes such as name and address.
 
 Load: Populate the Dim Customer table with the transformed data.
-![Screenshot 2024-05-29 204726](https://github.com/A7med-3laa227/Sales_Data_Mart/assets/86737077/ecfca1fe-d2ab-4e75-9f63-ab45049fd02a)
 
-Dim Time Design:
+Dim Date Design:
 
 Extract, Transform, and Load: Populate the Dim Timetable with time-related information, including dates, months, quarters, and years.
+![Screenshot 2024-05-29 205807](https://github.com/A7med-3laa227/Sales_Data_Mart/assets/86737077/22e8dccb-5b4b-4540-b430-fc41b1d4f779)
+
 Dim Territory Design:
 
 Extract: Retrieve territory data from the source database.
