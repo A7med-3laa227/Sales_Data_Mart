@@ -61,6 +61,7 @@ Transform: Perform necessary data transformations, including calculating measure
 Map: Ensure that foreign keys to dimension tables are accurately mapped.
 
 Load: Populate the Fact Sales table with sales measures and the appropriate dimension keys.
+![Screenshot 2024-05-30 001716](https://github.com/A7med-3laa227/Sales_Data_Mart/assets/86737077/9094133c-1787-45ae-861f-99127bc8fba7)
 
 This ETL process ensures that the data mart is populated with accurate, cleansed, and well-structured data, supporting comprehensive analytics and reporting capabilities.
 
